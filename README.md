@@ -1,2 +1,2 @@
-# exerAboutTryCatch1
+# exercise 1 about Try-Catch
  
